@@ -1,2 +1,2 @@
 # Claude Git Repos
-Githube repos for small projects
+Github repos for small projects
